@@ -15,3 +15,5 @@ from result.insert(i - 1, i_arg) to result.insert(i, i_arg)
 3-user.py
 I fixed the bug by changing self._password in line 43 to self.__password and also using a .lower() instead in line 57
 
+4-delete_dnodeint/
+Fixed the logic of deleting a node in the file 4-delete_dnodeint
